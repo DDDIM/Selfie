@@ -10,7 +10,7 @@
  "executable": "python",
  "args": ["Selfie-master/Selfie/main.py"],
  "config": [
-  {"name": "topright", "label": "Угол с минимальными координатами", "value": "(0, 130)"},
+  {"name": "topright", "label": "TEst", "value": "(0, 130)"},
   {"name": "bottomleft", "label": "Corner with max coordinates", "value": "(2650, 1050)"},
   {"name": "stepsize", "label": "Suggested step sizes", "value": "(150, 150)"},
   {"name": "default_z", "label": "default Z axis", "value": 0},

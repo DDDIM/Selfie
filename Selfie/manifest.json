@@ -5,8 +5,8 @@
  "description": "Farmbot making selfie!",
  "version": "1.0.7",
  "min_os_version_major": 6,
- "url": "https://raw.githubusercontent.com/etcipnja/Selfie/master/Selfie/manifest.json",
- "zip": "https://github.com/etcipnja/Selfie/archive/master.zip",
+ "url": "https://raw.githubusercontent.com/DDDIM/Selfie/master/Selfie/manifest.json",
+ "zip": "https://github.com/DDDIM/Selfie/archive/master.zip",
  "executable": "python",
  "args": ["Selfie-master/Selfie/main.py"],
  "config": [

@@ -2,7 +2,7 @@
  "package": "Селфи",
  "language": "python",
  "author": "etcipnja",
- "description": "Farmbot делает селфи!",
+ "description": "Farmbot делает селфи! Этот плагин предназначен для фотографирования всей грядки.",
  "version": "1.0.7",
  "min_os_version_major": 6,
  "url": "https://raw.githubusercontent.com/DDDIM/Selfie/master/Selfie/manifest.json",

@@ -1,8 +1,8 @@
 {
- "package": "Selfie",
+ "package": "Селфи",
  "language": "python",
  "author": "etcipnja",
- "description": "Farmbot making selfie!",
+ "description": "Farmbot делает селфи!",
  "version": "1.0.8",
  "min_os_version_major": 6,
  "url": "https://raw.githubusercontent.com/DDDIM/Selfie/master/Selfie/manifest.json",
@@ -11,9 +11,9 @@
  "args": ["Selfie-master/Selfie/main.py"],
  "config": [
   {"name": "topright", "label": "Угол с минимальными координатами", "value": "(0, 130)"},
-  {"name": "bottomleft", "label": "Corner with max coordinates", "value": "(2650, 1050)"},
-  {"name": "stepsize", "label": "Suggested step sizes", "value": "(150, 150)"},
-  {"name": "default_z", "label": "default Z axis", "value": 0},
-  {"name": "action", "label": "What to do (test, real)", "value": "test"}
+  {"name": "bottomleft", "label": "Угол с максимальными координатами", "value": "(2650, 1050)"},
+  {"name": "stepsize", "label": "Ориентировочный шаг между фото", "value": "(150, 150)"},
+  {"name": "default_z", "label": "Положение оси Z", "value": 0},
+  {"name": "action", "label": "Действие (test - тест, real - исполнить)", "value": "test"}
   ]
 }

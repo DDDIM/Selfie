@@ -3,7 +3,7 @@
  "language": "python",
  "author": "etcipnja",
  "description": "Farmbot making selfie!",
- "version": "1.0.7",
+ "version": "1.0.8",
  "min_os_version_major": 6,
  "url": "https://raw.githubusercontent.com/DDDIM/Selfie/master/Selfie/manifest.json",
  "zip": "https://github.com/DDDIM/Selfie/archive/master.zip",

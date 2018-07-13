@@ -11,4 +11,4 @@
 
 # Установка
 
-Для регистрации этого плагина используйте этот манифест: https://raw.githubusercontent.com/DDDIM/Selfie/master/Selfie/manifest.json
+Для регистрации плагина используйте этот манифест: https://raw.githubusercontent.com/DDDIM/Selfie/master/Selfie/manifest.json
